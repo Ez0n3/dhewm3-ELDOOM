@@ -13,9 +13,6 @@ https://github.com/dhewm/dhewm3/releases/
 The original Doom 3 can be purchased from Steam here:  
 https://store.steampowered.com/app/208200/DOOM_3/  
 
-The dhewm3 source port can be downloaded from GitHub here:  
-https://github.com/dhewm/dhewm3  
-
 Note: ELDOOM does not currently with the the BFG edition.  
 
 Have fun and enjoy o/  
